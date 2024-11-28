@@ -7,5 +7,5 @@ salvar_carro(marca= "Fiat",modelo= "Palio",ano= 1999,placa= "ABC-1234")
 salvar_carro(**{"marca":"Fiat", "modelo":"Palio", "ano":1999, "placa":"ABC-1234"})
  # Aqui vira um dicionario  **
  # *  ARGS  é para Tuplas
- # **  KARGS é para Dicionario
+ # **  KWARGS é para Dicionario
 
